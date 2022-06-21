@@ -7,4 +7,4 @@ changimg = function(){
         index = 0;
     }
 }
-setInterval(changimg,5000);
+setInterval(changimg,3000);

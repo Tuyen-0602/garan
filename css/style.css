@@ -27,10 +27,11 @@ a {
   margin-left: 38px;
   margin-top: 50px;
   border-radius: 10px;
+  transition: 0.6s;
 }
 
 .container .col-4 a img:hover {
   width: 80%;
-  transition: 0.6s;
+ 
 }
 
